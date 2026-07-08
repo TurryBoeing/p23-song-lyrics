@@ -4,7 +4,7 @@ This repository contains the final lyrics for:
 - P23 Song, original edit
 - P23 Song, alternative edit
 
-These lyrics were written by Ivan Turrado Vinhas and are published under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+These lyrics were written by Ivan Turrado Vinhas and are published under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. This repository is public with said License.
 
 Vocal interpretations performed by the same author have been registered separately in Safe Creative. (https://www.safecreative.org)[https://www.safecreative.org].
 
