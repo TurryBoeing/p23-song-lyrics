@@ -6,6 +6,6 @@ This repository contains the final lyrics for:
 
 These lyrics were written by Ivan Turrado Vinhas and are published under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. This repository is public with said License.
 
-Vocal interpretations performed by the same author have been registered separately in Safe Creative. [https://www.safecreative.org][(ttps://www.safecreative.org).
+Vocal interpretations performed by the same author have been registered separately in Safe Creative. [https://www.safecreative.org](ttps://www.safecreative.org).
 
 The musical compositions used in the versions published on YouTube [Orbiter Space Flight Simulator | NASSP | P23 Song, original edit](https://www.youtube.com/watch?v=EKbUrEjeJb8) and [Orbiter Space Flight Simulator | NASSP | P23 Song, alternative edit](https://www.youtube.com/watch?v=3VxN8vv15LQ) belong to their respective authors and are not included in this repository.
